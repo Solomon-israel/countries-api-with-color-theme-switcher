@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: system-ui;
+}
+
+body {
+  background-color: hsl(207, 26%, 17%);
+}
+
+input {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  background-color: inherit;
+}
+
+input ::placeholder {
+  color: white;
+  opacity: 1;
+}
