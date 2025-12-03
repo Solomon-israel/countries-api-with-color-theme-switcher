@@ -16,7 +16,9 @@ input {
   background-color: inherit;
 }
 
-input ::placeholder {
+/* input ::placeholder {
   color: white;
   opacity: 1;
-}
+} */
+
+
