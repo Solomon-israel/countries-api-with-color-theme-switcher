@@ -27,6 +27,7 @@ header {
   /* border: 1px solid; */
   display: flex;
   flex-direction: column;
+  padding: 1rem;
 }
 
 .body input {
@@ -61,8 +62,14 @@ header {
   top: 35%;
 } */
 
+.dropDown {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
 .dash {
   width: 20px;
-  height: 1px;
+  height: 3px;
   background-color: black;
 }

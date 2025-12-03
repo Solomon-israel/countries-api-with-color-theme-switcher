@@ -20,8 +20,8 @@ export default function App() {
           </div>
           <div className={styles.dropDown}>
             <div className={styles.dash}></div>
-            <div></div>
-            <div></div>
+            <div className={styles.dash}></div>
+            <div className={styles.dash}></div>
           </div>
         </div>
       </div>
